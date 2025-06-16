@@ -1,0 +1,8 @@
+player_name,date,exit_velocity,launch_angle,spray_angle,distance_hit,hit_type,pitch_type,pitch_speed,field_x,field_y
+Derrick Spivey,2025-06-01,101.2,19,-10,327,Double,Slider,82,50,135
+Derrick Spivey,2025-06-01,95.4,27,12,362,Home Run,Fastball,88,90,125
+Derrick Spivey,2025-06-01,89.7,22,8,310,Single,Changeup,79,60,110
+Jordan Gochenour,2025-06-01,94.5,25,15,368,Home Run,Fastball,89,85,125
+Jordan Gochenour,2025-06-01,97.8,17,-5,320,Flyout,Curveball,75,45,115
+Charlie Spivey,2025-06-01,87.4,22,25,310,Flyout,Fastball,85,110,100
+Charlie Spivey,2025-06-01,92.0,30,18,350,Triple,Slider,84,95,120
